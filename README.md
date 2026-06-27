@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>PhiloAgents Course</h1>
+  <h1>PhiloAgents Agentic RAG System</h1>
   <h3>Learn how to build an AI-powered game simulation engine to impersonate popular philosophers.</h3>
   <p class="tagline">Open-source course by <a href="https://theneuralmaze.substack.com/">The Neural Maze</a> and <a href="https://decodingml.substack.com">Decoding ML</a> in collaboration with </br> <a href="https://rebrand.ly/philoagents-mongodb">MongoDB</a>, <a href="https://rebrand.ly/philoagents-opik">Opik</a> and <a href="https://rebrand.ly/philoagents-groq">Groq</a>.</p>
 </div>
